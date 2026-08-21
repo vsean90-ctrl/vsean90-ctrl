@@ -16,6 +16,6 @@
 [<img align="left" alt="Sean | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sean | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Sean
-[instagram]: https://www.instagram.com/Sean
+[twitter]: https://twitter.com/SeanVila
+[instagram]: https://www.instagram.com/SeanVila
 [linkedin]: linkedin.com/in/sean-vila-6a791237a
